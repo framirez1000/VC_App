@@ -1,0 +1,330 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (ListTest_CLI_Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CppCLR_WinformsProjekt.cpp
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(135,6): warning C4101:  'i': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MyForm.h(33,3): warning C4677:  'MyForm': signature of non-private member contains assembly private type 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(164): message :  see declaration of 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MyForm.h(42,36): warning C4677:  'pMainHrwList': signature of non-private member contains assembly private type 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(164): message :  see declaration of 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CnfChnl.h(29,26): warning C4677:  'MyCrate': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CnfChnl.h(36,37): warning C4677:  'm_MainDataStruct': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CnfChnl.h(78,3): warning C4677:  'CnfChnl': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CnfChnl.h(840,10): warning C4101:  'val': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CnfChnl.h(853,10): warning C4101:  'val': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ChnlViewForm.h(32,42): warning C4677:  'ptrMainCrateList': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ChnlViewForm.h(33,37): warning C4677:  'm_mainDataStruct': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ChnlViewForm.h(60,3): warning C4677:  'ChnlViewForm': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ChnlViewForm.h(60,3): warning C4677:  'ChnlViewForm': signature of non-private member contains assembly private type 'cliext::vector<ListTest_CLI_Project::ChnlViewForm ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ChnlViewForm.h(44): message :  see declaration of 'cliext::vector<ListTest_CLI_Project::ChnlViewForm ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SltnChnlForm.h(39,3): warning C4677:  'SltnChnlForm': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SltnChnlForm.h(268,34): warning C4101:  'rdBtn': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ChnlSltnVForm.h(33,3): warning C4677:  'ChnlSltnVForm': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetSltnViewForm.h(25,28): warning C4677:  'm_mainDataStruct': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetSltnViewForm.h(46,3): warning C4677:  'SetSltnViewForm': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetSltnViewForm.h(224,17): warning C4101:  'pChnlViewItem': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ProgressDialog.h(18,31): warning C4677:  'm_cmdMsg': signature of non-private member contains assembly private type 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(69): message :  see declaration of 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\LogSltnForm.h(20,22): warning C4677:  'm_DataFile': signature of non-private member contains assembly private type 'FileData'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(172): message :  see declaration of 'FileData'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GroupCnfSltn.h(20,47): warning C4677:  'm_CmdMsg': signature of non-private member contains assembly private type 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(69): message :  see declaration of 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GroupCnfSltn.h(21,37): warning C4677:  'pMainDataStruct': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GroupCnfSltn.h(30,3): warning C4677:  'GroupCnfSltn': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GroupCnfSltn.h(30,3): warning C4677:  'GroupCnfSltn': signature of non-private member contains assembly private type 'cliext::vector<ListTest_CLI_Project::ChnlViewForm ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ChnlViewForm.h(44): message :  see declaration of 'cliext::vector<ListTest_CLI_Project::ChnlViewForm ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GroupCnfSltn.h(77,43): warning C4677:  'pChnlsView': signature of non-private member contains assembly private type 'cliext::vector<ListTest_CLI_Project::ChnlViewForm ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ChnlViewForm.h(44): message :  see declaration of 'cliext::vector<ListTest_CLI_Project::ChnlViewForm ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GroupCnfSltn.h(81,38): warning C4677:  'pCrateList': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(31,2): warning C4091:  'static ': ignored on left of 'EnumStringValue' when no variable is declared
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(47,2): warning C4091:  'typedef ': ignored on left of 'CmdsT' when no variable is declared
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(60,2): warning C4091:  'typedef ': ignored on left of 'ChannelsMembersT' when no variable is declared
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(93,13): warning C4244:  'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(93,18): warning C4244:  'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(94,13): warning C4244:  'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(94,18): warning C4244:  'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(153,71): warning C4677:  'CaInterface': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(153,71): warning C4677:  'CaInterface': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(160,55): warning C4677:  'getModCnf': signature of non-private member contains assembly private type 'Module'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Module.h(7): message :  see declaration of 'Module'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(161,75): warning C4677:  'setAllModMmbrs': signature of non-private member contains assembly private type 'Module'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Module.h(7): message :  see declaration of 'Module'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(162,63): warning C4677:  'getCrateCnf': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(163,76): warning C4677:  'setAllCrateMmbrs': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(164,64): warning C4677:  'getChnlCnf': signature of non-private member contains assembly private type 'Channel'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Channel.h(8): message :  see declaration of 'Channel'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(165,88): warning C4677:  'setAllChnlMmbrs': signature of non-private member contains assembly private type 'Channel'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Channel.h(8): message :  see declaration of 'Channel'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(59,48): warning C4677:  'ThreadCAClass': signature of non-private member contains assembly private type 'cliext::map<System::String ^,RegCmdStruct_T ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(56): message :  see declaration of 'cliext::map<System::String ^,RegCmdStruct_T ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(59,48): warning C4677:  'ThreadCAClass': signature of non-private member contains assembly private type 'RegCmdStruct_T'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(34): message :  see declaration of 'RegCmdStruct_T'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(60,178): warning C4677:  'ThreadCAClass': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(60,178): warning C4677:  'ThreadCAClass': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(60,178): warning C4677:  'ThreadCAClass': signature of non-private member contains assembly private type 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(164): message :  see declaration of 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(60,178): warning C4677:  'ThreadCAClass': signature of non-private member contains assembly private type 'cliext::map<System::String ^,RegCmdStruct_T ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(56): message :  see declaration of 'cliext::map<System::String ^,RegCmdStruct_T ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(60,178): warning C4677:  'ThreadCAClass': signature of non-private member contains assembly private type 'RegCmdStruct_T'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(34): message :  see declaration of 'RegCmdStruct_T'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(73,36): warning C4677:  'CrateList': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(74,24): warning C4677:  'get': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(75,32): warning C4677:  'set': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(77,41): warning C4677:  'Commands': signature of non-private member contains assembly private type 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(69): message :  see declaration of 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(78,30): warning C4677:  'get': signature of non-private member contains assembly private type 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(69): message :  see declaration of 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(79,47): warning C4677:  'set': signature of non-private member contains assembly private type 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(69): message :  see declaration of 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(89,37): warning C4677:  'pMainHrwList': signature of non-private member contains assembly private type 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(164): message :  see declaration of 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(90,49): warning C4677:  'm_HrdwFailingList': signature of non-private member contains assembly private type 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(164): message :  see declaration of 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetStateByGroup.h(33,3): warning C4677:  'SetStateByGroup': signature of non-private member contains assembly private type 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(69): message :  see declaration of 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetStateByGroup.h(33,3): warning C4677:  'SetStateByGroup': signature of non-private member contains assembly private type 'cliext::vector<ListTest_CLI_Project::ChnlViewForm ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ChnlViewForm.h(44): message :  see declaration of 'cliext::vector<ListTest_CLI_Project::ChnlViewForm ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetStateByGroup.h(161,1): warning C4691:  'System::Object': type referenced was expected in unreferenced assembly 'netstandard', type defined in current translation unit used instead
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetStateByGroup.h(161,1): message :  This diagnostic occurred while importing type 'DraggableControls::ControlExtension ' from assembly 'Control.Draggable, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetStateByGroup.h(161,1): warning C4691:  'System::Collections::Generic::Dictionary': type referenced was expected in unreferenced assembly 'netstandard', type defined in current translation unit used instead
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetStateByGroup.h(161,1): message :  This diagnostic occurred while importing type 'DraggableControls::ControlExtension ' from assembly 'Control.Draggable, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetStateByGroup.h(161,1): warning C4691:  'System::Drawing::Size': type referenced was expected in unreferenced assembly 'netstandard', type defined in current translation unit used instead
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetStateByGroup.h(161,1): message :  This diagnostic occurred while importing type 'DraggableControls::ControlExtension ' from assembly 'Control.Draggable, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(105,46): warning C4677:  'm_HrdwFailList': signature of non-private member contains assembly private type 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(164): message :  see declaration of 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(107,48): warning C4677:  'pChnlsViewList': signature of non-private member contains assembly private type 'cliext::vector<ListTest_CLI_Project::ChnlViewForm ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ChnlViewForm.h(44): message :  see declaration of 'cliext::vector<ListTest_CLI_Project::ChnlViewForm ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(109,27): warning C4677:  'm_mainDataStruct': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(110,26): warning C4677:  'm_ptrMainDtSt': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(111,35): warning C4677:  'm_ptrMainCrateList': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(113,30): warning C4677:  'm_pDataSave': signature of non-private member contains assembly private type 'SaveDataToFile'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SaveDataToFile.h(8): message :  see declaration of 'SaveDataToFile'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(114,25): warning C4677:  'crateMainObject': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(115,20): warning C4677:  'DataFile': signature of non-private member contains assembly private type 'FileData'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(172): message :  see declaration of 'FileData'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(116,32): warning C4677:  'pFreqCmds': signature of non-private member contains assembly private type 'cliext::map<System::String ^,RegCmdStruct_T ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(56): message :  see declaration of 'cliext::map<System::String ^,RegCmdStruct_T ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(116,32): warning C4677:  'pFreqCmds': signature of non-private member contains assembly private type 'RegCmdStruct_T'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(34): message :  see declaration of 'RegCmdStruct_T'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(195,3): warning C4677:  'MainForm': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(858,1): warning C4102:  'System': unreferenced label
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(930,26): warning C4101:  'e': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(938,26): warning C4101:  'e': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1102,21): warning C4101:  'e': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1117,21): warning C4101:  'e': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1132,21): warning C4101:  'e': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1421,10): warning C4552:  '!': result of expression not used
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1423,10): warning C4552:  '!': result of expression not used
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1322,23): warning C4101:  'e': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1473,7): warning C4101:  'desktop': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1531,13): warning C4551:  function call missing argument list
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1643,12): warning C4552:  '!': result of expression not used
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1645,12): warning C4552:  '!': result of expression not used
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1781,22): warning C4101:  'e': unreferenced local variable
+  MainForm.cpp
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1874,8): warning C4101:  'desktop': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(135,6): warning C4101:  'i': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MyForm.h(33,3): warning C4677:  'MyForm': signature of non-private member contains assembly private type 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(164): message :  see declaration of 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MyForm.h(42,36): warning C4677:  'pMainHrwList': signature of non-private member contains assembly private type 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(164): message :  see declaration of 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CnfChnl.h(29,26): warning C4677:  'MyCrate': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CnfChnl.h(36,37): warning C4677:  'm_MainDataStruct': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CnfChnl.h(78,3): warning C4677:  'CnfChnl': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CnfChnl.h(840,10): warning C4101:  'val': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CnfChnl.h(853,10): warning C4101:  'val': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ChnlViewForm.h(32,42): warning C4677:  'ptrMainCrateList': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ChnlViewForm.h(33,37): warning C4677:  'm_mainDataStruct': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ChnlViewForm.h(60,3): warning C4677:  'ChnlViewForm': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ChnlViewForm.h(60,3): warning C4677:  'ChnlViewForm': signature of non-private member contains assembly private type 'cliext::vector<ListTest_CLI_Project::ChnlViewForm ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ChnlViewForm.h(44): message :  see declaration of 'cliext::vector<ListTest_CLI_Project::ChnlViewForm ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SltnChnlForm.h(39,3): warning C4677:  'SltnChnlForm': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SltnChnlForm.h(268,34): warning C4101:  'rdBtn': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ChnlSltnVForm.h(33,3): warning C4677:  'ChnlSltnVForm': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetSltnViewForm.h(25,28): warning C4677:  'm_mainDataStruct': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetSltnViewForm.h(46,3): warning C4677:  'SetSltnViewForm': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetSltnViewForm.h(224,17): warning C4101:  'pChnlViewItem': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ProgressDialog.h(18,31): warning C4677:  'm_cmdMsg': signature of non-private member contains assembly private type 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(69): message :  see declaration of 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\LogSltnForm.h(20,22): warning C4677:  'm_DataFile': signature of non-private member contains assembly private type 'FileData'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(172): message :  see declaration of 'FileData'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GroupCnfSltn.h(20,47): warning C4677:  'm_CmdMsg': signature of non-private member contains assembly private type 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(69): message :  see declaration of 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GroupCnfSltn.h(21,37): warning C4677:  'pMainDataStruct': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GroupCnfSltn.h(30,3): warning C4677:  'GroupCnfSltn': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GroupCnfSltn.h(30,3): warning C4677:  'GroupCnfSltn': signature of non-private member contains assembly private type 'cliext::vector<ListTest_CLI_Project::ChnlViewForm ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ChnlViewForm.h(44): message :  see declaration of 'cliext::vector<ListTest_CLI_Project::ChnlViewForm ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GroupCnfSltn.h(77,43): warning C4677:  'pChnlsView': signature of non-private member contains assembly private type 'cliext::vector<ListTest_CLI_Project::ChnlViewForm ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ChnlViewForm.h(44): message :  see declaration of 'cliext::vector<ListTest_CLI_Project::ChnlViewForm ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GroupCnfSltn.h(81,38): warning C4677:  'pCrateList': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(31,2): warning C4091:  'static ': ignored on left of 'EnumStringValue' when no variable is declared
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(47,2): warning C4091:  'typedef ': ignored on left of 'CmdsT' when no variable is declared
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(60,2): warning C4091:  'typedef ': ignored on left of 'ChannelsMembersT' when no variable is declared
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(93,13): warning C4244:  'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(93,18): warning C4244:  'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(94,13): warning C4244:  'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(94,18): warning C4244:  'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(153,71): warning C4677:  'CaInterface': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(153,71): warning C4677:  'CaInterface': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(160,55): warning C4677:  'getModCnf': signature of non-private member contains assembly private type 'Module'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Module.h(7): message :  see declaration of 'Module'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(161,75): warning C4677:  'setAllModMmbrs': signature of non-private member contains assembly private type 'Module'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Module.h(7): message :  see declaration of 'Module'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(162,63): warning C4677:  'getCrateCnf': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(163,76): warning C4677:  'setAllCrateMmbrs': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(164,64): warning C4677:  'getChnlCnf': signature of non-private member contains assembly private type 'Channel'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Channel.h(8): message :  see declaration of 'Channel'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\CaInterfaceClass.h(165,88): warning C4677:  'setAllChnlMmbrs': signature of non-private member contains assembly private type 'Channel'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Channel.h(8): message :  see declaration of 'Channel'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(59,48): warning C4677:  'ThreadCAClass': signature of non-private member contains assembly private type 'cliext::map<System::String ^,RegCmdStruct_T ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(56): message :  see declaration of 'cliext::map<System::String ^,RegCmdStruct_T ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(59,48): warning C4677:  'ThreadCAClass': signature of non-private member contains assembly private type 'RegCmdStruct_T'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(34): message :  see declaration of 'RegCmdStruct_T'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(60,178): warning C4677:  'ThreadCAClass': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(60,178): warning C4677:  'ThreadCAClass': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(60,178): warning C4677:  'ThreadCAClass': signature of non-private member contains assembly private type 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(164): message :  see declaration of 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(60,178): warning C4677:  'ThreadCAClass': signature of non-private member contains assembly private type 'cliext::map<System::String ^,RegCmdStruct_T ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(56): message :  see declaration of 'cliext::map<System::String ^,RegCmdStruct_T ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(60,178): warning C4677:  'ThreadCAClass': signature of non-private member contains assembly private type 'RegCmdStruct_T'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(34): message :  see declaration of 'RegCmdStruct_T'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(73,36): warning C4677:  'CrateList': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(74,24): warning C4677:  'get': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(75,32): warning C4677:  'set': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(77,41): warning C4677:  'Commands': signature of non-private member contains assembly private type 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(69): message :  see declaration of 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(78,30): warning C4677:  'get': signature of non-private member contains assembly private type 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(69): message :  see declaration of 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(79,47): warning C4677:  'set': signature of non-private member contains assembly private type 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(69): message :  see declaration of 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(89,37): warning C4677:  'pMainHrwList': signature of non-private member contains assembly private type 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(164): message :  see declaration of 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ThreadCAClass.h(90,49): warning C4677:  'm_HrdwFailingList': signature of non-private member contains assembly private type 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(164): message :  see declaration of 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetStateByGroup.h(33,3): warning C4677:  'SetStateByGroup': signature of non-private member contains assembly private type 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(69): message :  see declaration of 'SingletonCmmdClass'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetStateByGroup.h(33,3): warning C4677:  'SetStateByGroup': signature of non-private member contains assembly private type 'cliext::vector<ListTest_CLI_Project::ChnlViewForm ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ChnlViewForm.h(44): message :  see declaration of 'cliext::vector<ListTest_CLI_Project::ChnlViewForm ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetStateByGroup.h(161,1): warning C4691:  'System::Object': type referenced was expected in unreferenced assembly 'netstandard', type defined in current translation unit used instead
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetStateByGroup.h(161,1): message :  This diagnostic occurred while importing type 'DraggableControls::ControlExtension ' from assembly 'Control.Draggable, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetStateByGroup.h(161,1): warning C4691:  'System::Collections::Generic::Dictionary': type referenced was expected in unreferenced assembly 'netstandard', type defined in current translation unit used instead
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetStateByGroup.h(161,1): message :  This diagnostic occurred while importing type 'DraggableControls::ControlExtension ' from assembly 'Control.Draggable, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetStateByGroup.h(161,1): warning C4691:  'System::Drawing::Size': type referenced was expected in unreferenced assembly 'netstandard', type defined in current translation unit used instead
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SetStateByGroup.h(161,1): message :  This diagnostic occurred while importing type 'DraggableControls::ControlExtension ' from assembly 'Control.Draggable, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(105,46): warning C4677:  'm_HrdwFailList': signature of non-private member contains assembly private type 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(164): message :  see declaration of 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(107,48): warning C4677:  'pChnlsViewList': signature of non-private member contains assembly private type 'cliext::vector<ListTest_CLI_Project::ChnlViewForm ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\ChnlViewForm.h(44): message :  see declaration of 'cliext::vector<ListTest_CLI_Project::ChnlViewForm ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(109,27): warning C4677:  'm_mainDataStruct': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(110,26): warning C4677:  'm_ptrMainDtSt': signature of non-private member contains assembly private type 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(58): message :  see declaration of 'CratesT'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(111,35): warning C4677:  'm_ptrMainCrateList': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(113,30): warning C4677:  'm_pDataSave': signature of non-private member contains assembly private type 'SaveDataToFile'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\SaveDataToFile.h(8): message :  see declaration of 'SaveDataToFile'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(114,25): warning C4677:  'crateMainObject': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(115,20): warning C4677:  'DataFile': signature of non-private member contains assembly private type 'FileData'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(172): message :  see declaration of 'FileData'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(116,32): warning C4677:  'pFreqCmds': signature of non-private member contains assembly private type 'cliext::map<System::String ^,RegCmdStruct_T ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(56): message :  see declaration of 'cliext::map<System::String ^,RegCmdStruct_T ^>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(116,32): warning C4677:  'pFreqCmds': signature of non-private member contains assembly private type 'RegCmdStruct_T'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainHeader.h(34): message :  see declaration of 'RegCmdStruct_T'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(195,3): warning C4677:  'MainForm': signature of non-private member contains assembly private type 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\Crate.h(8): message :  see declaration of 'Crate'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(858,1): warning C4102:  'System': unreferenced label
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(930,26): warning C4101:  'e': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(938,26): warning C4101:  'e': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1102,21): warning C4101:  'e': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1117,21): warning C4101:  'e': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1132,21): warning C4101:  'e': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1421,10): warning C4552:  '!': result of expression not used
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1423,10): warning C4552:  '!': result of expression not used
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1322,23): warning C4101:  'e': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1473,7): warning C4101:  'desktop': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1531,13): warning C4551:  function call missing argument list
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1643,12): warning C4552:  '!': result of expression not used
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1645,12): warning C4552:  '!': result of expression not used
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1781,22): warning C4101:  'e': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.h(1874,8): warning C4101:  'desktop': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.cpp(175,21): warning C4101:  'e': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.cpp(186,7): warning C4101:  'buffer': unreferenced local variable
+  MyForm.cpp
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MainForm.cpp(200,21): warning C4101:  'e': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(135,6): warning C4101:  'i': unreferenced local variable
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MyForm.h(33,3): warning C4677:  'MyForm': signature of non-private member contains assembly private type 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(164): message :  see declaration of 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\MyForm.h(42,36): warning C4677:  'pMainHrwList': signature of non-private member contains assembly private type 'cliext::map<System::String ^,bool>'
+  Generating Code...
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\GlobalsHeader.h(164): message :  see declaration of 'cliext::map<System::String ^,bool>'
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\XML_ViewSettingsConf_Class.h(153): warning C4715:  'XML_Classes::Channel::GetModName': not all control paths return a value
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\XML_ViewSettingsConf_Class.h(153): warning C4715:  'XML_Classes::Channel::GetModName': not all control paths return a value
+C:\Users\framirez\source\repos\GECA_VC_Project\GECA_VC_Project\XML_ViewSettingsConf_Class.h(153): warning C4715:  'XML_Classes::Channel::GetModName': not all control paths return a value
+ThreadCAClass.obj : warning LNK4248: unresolved typeref token (0100001B) for 'oldChannelNotify'; image may not run
+SltnChnlForm.obj : warning LNK4248: unresolved typeref token (0100001E) for 'oldChannelNotify'; image may not run
+SetSltnViewForm.obj : warning LNK4248: unresolved typeref token (0100001E) for 'oldChannelNotify'; image may not run
+SaveDataToFile.obj : warning LNK4248: unresolved typeref token (0100001B) for 'oldChannelNotify'; image may not run
+ProgressDialogTask.obj : warning LNK4248: unresolved typeref token (0100001A) for 'oldChannelNotify'; image may not run
+ProgressDialog.obj : warning LNK4248: unresolved typeref token (0100001A) for 'oldChannelNotify'; image may not run
+SetStateByGroup.obj : warning LNK4248: unresolved typeref token (0100001A) for 'oldChannelNotify'; image may not run
+ChnlSltnVForm.obj : warning LNK4248: unresolved typeref token (0100001E) for 'oldChannelNotify'; image may not run
+ChnlViewForm.obj : warning LNK4248: unresolved typeref token (0100001A) for 'oldChannelNotify'; image may not run
+MyForm.obj : warning LNK4248: unresolved typeref token (0100001A) for 'oldChannelNotify'; image may not run
+MainForm.obj : warning LNK4248: unresolved typeref token (0100001B) for 'oldChannelNotify'; image may not run
+LogSltnForm.obj : warning LNK4248: unresolved typeref token (0100001A) for 'oldChannelNotify'; image may not run
+GroupCnfSltn.obj : warning LNK4248: unresolved typeref token (0100001A) for 'oldChannelNotify'; image may not run
+DeviceCommonInfo.obj : warning LNK4248: unresolved typeref token (0100001A) for 'oldChannelNotify'; image may not run
+Crate.obj : warning LNK4248: unresolved typeref token (0100001A) for 'oldChannelNotify'; image may not run
+CppCLR_WinformsProjekt.obj : warning LNK4248: unresolved typeref token (0100001B) for 'oldChannelNotify'; image may not run
+CnfChnl.obj : warning LNK4248: unresolved typeref token (0100001A) for 'oldChannelNotify'; image may not run
+Channel.obj : warning LNK4248: unresolved typeref token (0100001A) for 'oldChannelNotify'; image may not run
+CaInterfaceClass.obj : warning LNK4248: unresolved typeref token (0100001A) for 'oldChannelNotify'; image may not run
+  ListTest_CLI_Project.vcxproj -> C:\Users\framirez\source\repos\GECA_VC_Project\x64\Release\GECA_VC.exe
